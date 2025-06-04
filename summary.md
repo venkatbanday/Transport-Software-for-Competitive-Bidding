@@ -1,14 +1,19 @@
-# Transport Software for Competitive Bidding
+# Transport-Software-for-Competitive-Bidding
 
-**Overview:**  
-Transport was managed manually with limited outreach and pre-negotiated rates, leading to inefficiencies.
+Transport Software for Competitive Bidding – 3F Industries, India
 
-**Steps Taken:**  
-- Developed a custom transport software allowing rate bidding.
-- Introduced alert system for resubmission of lower bids.
-- Enforced service-level agreements with escalation clauses.
+Overview:
 
-**Results:**  
-- Reduced freight costs by 18%.
-- Improved vendor competition and reliability.
-- Ensured dispatch integrity and system transparency.
+Built and implemented a custom software platform to streamline logistics vendor bidding and reduce transport costs.
+
+Key Achievements:
+
+• Developed proprietary real-time freight bidding software for vendor transparency.
+
+• Enforced strict rate renegotiation policies and 24-hour vehicle deployment rules.
+
+• Integrated auto-escalation mechanisms for vendor defaults to improve accountability.
+
+Keywords:
+
+Transport Management | Freight Bidding Software | Cost Reduction | Logistics Tech | Vendor Performance | Automation | Fleet Deployment | Real-Time Procurement
